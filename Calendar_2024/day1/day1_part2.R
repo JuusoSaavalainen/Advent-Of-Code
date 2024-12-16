@@ -1,7 +1,5 @@
 # pipe it up DW :D
 library(dplyr)
-
-setwd("~/Desktop/advent_of_code/Calendar_2024/day1")
 data <- read.table("data.txt", header = FALSE)
 
 # 0(n) solution
